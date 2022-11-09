@@ -1,0 +1,14 @@
+.active {
+    display: inline-block;
+    padding: 5px;
+    background-color: lightblue;
+    color: blue;
+    font-size: 20px;
+    cursor: pointer;
+    transition: .3s;
+}
+.active2 {
+    padding: 4px;
+    background: rgb(0, 0, 0);
+    color: rgb(205, 205, 205);
+}

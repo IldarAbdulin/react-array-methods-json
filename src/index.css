@@ -1,0 +1,9 @@
+.todoH1 {
+    text-align: center;
+    color: rgb(0, 255, 38);
+}
+.todoParagraph {
+    text-align: center;
+    color: rgb(34, 0, 255);
+    cursor: pointer;
+}
